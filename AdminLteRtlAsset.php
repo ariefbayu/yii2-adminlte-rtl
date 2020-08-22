@@ -7,7 +7,7 @@ namespace airani;
  */
 class AdminLteRtlAsset extends \yii\web\AssetBundle
 {
-    public $sourcePath = '@bower/adminlte_rtl/dist';
+    public $sourcePath = __DIR__ . '/assets';
 
     public $css = [
         'css/AdminLTE-rtl.min.css',
