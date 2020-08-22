@@ -1,5 +1,5 @@
 {
-    "name": "airani/yii2-adminlte-rtl",
+    "name": "rezasr/yii2-adminlte-rtl",
     "description": "RTL (Right to Left) AdminLte theme for Yii2",
     "type": "yii2-extension",
     "license": "BSD-3-Clause",
@@ -8,6 +8,10 @@
         {
             "name": "Ali Irani",
             "email": "ali@irani.im"
+        },
+		{
+            "name": "Reza Saberi Rad",
+            "email": "rsr_reza@yahoo.com"
         }
     ],
     "require": {
@@ -17,7 +21,7 @@
     },
     "autoload": {
         "psr-4": {
-            "airani\\": ""
+            "rezasr\\yii2\\": ""
         }
     }
 }

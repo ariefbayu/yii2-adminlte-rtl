@@ -1,5 +1,5 @@
 <?php
-namespace airani;
+namespace rezasr\yii2;
 
 /**
  * AdminLteRtl AssetBundle
@@ -15,7 +15,7 @@ class AdminLteRtlAsset extends \yii\web\AssetBundle
     ];
 
     public $depends = [
-        'airani\AdminLteAsset',
+        'rezasr\yii2\AdminLteAsset',
         'airani\bootstrap\BootstrapRtlAsset',
     ];
 }

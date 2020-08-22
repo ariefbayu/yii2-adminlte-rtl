@@ -1,5 +1,5 @@
 <?php
-namespace airani;
+namespace rezasr\yii2;
 
 /**
  * AdminLte AssetBundle
